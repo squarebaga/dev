@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 ea68cc0fd1501c25844af381fbdbb61355cd122a Jiajyuns Syu <jiajyuns@marvell.com> 1692769958 +0800	commit (initial): Add vimrc
+ea68cc0fd1501c25844af381fbdbb61355cd122a d55067f9c7e5a4830ce10a992b329b69c060cf62 Jiajyuns Syu <jiajyuns@marvell.com> 1692769967 +0800	commit: Add bashrc
+d55067f9c7e5a4830ce10a992b329b69c060cf62 9f257d1d2b20691f2fed48bfbe56134e03affdd0 Jiajyuns Syu <jiajyuns@marvell.com> 1692770364 +0800	commit: Add more config files
+9f257d1d2b20691f2fed48bfbe56134e03affdd0 2f45d246ba8ea56fc02614e0e0ba0b943bf163ab Jiajyuns Syu <jiajyuns@marvell.com> 1692770398 +0800	commit: Add .gitignore
+2f45d246ba8ea56fc02614e0e0ba0b943bf163ab 73eb596b432433f5d883f377ce775ff74174375f Jiajyuns Syu <jiajyuns@marvell.com> 1692770679 +0800	commit: Add .oh-my-zsh
+73eb596b432433f5d883f377ce775ff74174375f 44b6b17a7da1454c11b5e08eb3228142e37f9cbf Jiajyuns Syu <jiajyuns@marvell.com> 1692770820 +0800	commit: Add shared_folder
+44b6b17a7da1454c11b5e08eb3228142e37f9cbf 29e4bd21002cdcdbfec0683671a2cf104af216d6 Jiajyuns Syu <jiajyuns@marvell.com> 1692781724 +0800	commit: Add omz custom plugins
